@@ -28,9 +28,6 @@ url: "https://blog.l3afs.space"
 github:
   username: lifeofal3af # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -95,7 +92,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/user-attachments/assets/70ed4516-77ad-46d2-aba5-8f6794a0d607
+avatar: https://github.com/lifeofal3af/l3afsblog/raw/refs/heads/main/assets/NHo4psiFvMbQbUZbvvONPDA7zqbTUPZvC7XxzqFP9p4.webp
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
