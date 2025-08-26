@@ -1,4 +1,4 @@
-
+{% raw %}
 
 # Hey there!
 
@@ -246,4 +246,4 @@ if __name__ == "__main__":
 The "Single Slice Of CakeNews" challenge was a fantastic example of a realistic web application vulnerability. It was about identifying a simple logic error failing to sanitize one field out of two and understanding how to chain that vulnerability through the application's features to get the flag. 
 
 A big thanks to Mushroom for the collaboration in solving this challenge.
-
+{% endraw %}
